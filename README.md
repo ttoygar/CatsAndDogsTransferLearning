@@ -1,5 +1,7 @@
 # CatsAndDogsTransferLearning 
 
+This repo is created in Global AI Hub Summer Camp '22 for a collaborative study.
+
 
 To download the pickled preprocessed dataset:
 
